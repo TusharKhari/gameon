@@ -1,0 +1,36 @@
+[
+    {
+        "id" : "0",
+        "name" : "Wankhide International Cricket Stadium",
+        "pitchType" : "Mat",
+        "imageUrl" : "https://images.unsplash.com/photo-1607734834519-d8576ae60ea6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y3JpY2tldCUyMHN0YWRpdW18ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60",
+        "twentyOver" :[ 
+            {"time":"10:00 am"},{"time":"1:00 pm"},{"time":"4:00 pm"}
+        ],
+        "thirtyOver" : [{"time":"2:00 pm"},{"time":"4:00 pm"}],
+        "stadiumLocation" : [{ "city" : "Mumbai","state" : "Maharashtra", "country" : "India"}]
+    },
+    {
+        "id" : "1",
+        "name" : "Narendra Modi Stadium",
+        "pitchType" : "Mat",
+        "imageUrl" : "https://images.unsplash.com/photo-1625401586060-f12be3d7cc57?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y3JpY2tldCUyMHN0YWRpdW18ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60",
+        "twentyOver" :[ 
+            {"time":"10:00 am"},{"time":"1:00 pm"},{"time":"4:00 pm"}
+        ],
+        "thirtyOver" : [{"time":"2:00 pm"},{"time":"4:00 pm"}],
+        "stadiumLocation" : [{ "city" : "Ahmedabad", "state" : "Gujarat", "country" : "India"}]
+    },
+    {
+        "id" : "2",
+        "name" : "Jawaharlal Nehru Stadium",
+        "pitchType" : "Mat",
+        "imageUrl" : "https://images.unsplash.com/photo-1559579313-021b6ec9f6d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y3JpY2tldCUyMHN0YWRpdW18ZW58MHx8MHx8&auto=format&fit=crop&w=900&q=60",
+        "twentyOver" :[ 
+            {"time":"10:00 am"},{"time":"1:00 pm"},{"time":"4:00 pm"}
+        ],
+        "thirtyOver" : [{"time":"2:00 pm"},{"time":"4:00 pm"}],
+        "stadiumLocation" : [{ "city" : "Delhi", "state" : "Delhi-NCR", "country" : "India"}]
+    }
+]
+
