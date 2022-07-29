@@ -92,7 +92,7 @@ class _EnterOtpScreenState extends State<EnterNumberScreen> {
                         ),
                         SizedBox(
                           height: 55,
-                          width: 300,
+                          width: 250,
                           child: Center(
                             child: TextField(
                               controller: phoneNoController,
@@ -153,4 +153,3 @@ class _EnterOtpScreenState extends State<EnterNumberScreen> {
         ));
   }
 }
-

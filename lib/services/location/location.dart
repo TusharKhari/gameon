@@ -28,6 +28,6 @@ class LocationService {
     }
 
     var locationData = await location.getLocation();
-    print(locationData.latitude);
+    //print(locationData.latitude);
   }
 }
